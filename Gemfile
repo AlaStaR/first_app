@@ -7,6 +7,7 @@ gem 'rails', '3.1.0.beta1'
 
 gem 'mysql2'
 gem 'mongrel'
+gem 'therubyracer'
 # gem 'mysql2', :git => 'git://github.com/brianmario/mysql2.git'
 
 # Asset template engines
